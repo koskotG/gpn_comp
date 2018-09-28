@@ -101,5 +101,4 @@ settings.json
 
 # Project specific
 *.h5
-CRM/__pycache__/CRM_base.cpython-36.pyc
-*.png
+*.las
