@@ -102,3 +102,4 @@ settings.json
 # Project specific
 *.h5
 *.las
+catboost*
